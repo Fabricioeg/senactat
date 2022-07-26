@@ -35,8 +35,8 @@ network:
       # Configuração dos Endereços de DNS Server IPv4 do Ubuntu Server
       nameservers:
         addresses:
-        #- 172.16.100.10
-        - 172.16.100.254
+        - 172.16.100.10
+        #- 172.16.100.254
         #- 8.8.8.8
         #- 8.8.4.4
         #
