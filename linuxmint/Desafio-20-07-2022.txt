@@ -55,14 +55,14 @@ Desafio-09: INSTALAÇÃO DOS NAVEGADORES:
 	Opera;
 	Microsoft Edge;
 	Vivaldi;
-	Tor.
+	Tor;
+	Brave.
 
 Desafio-10: INSTALAÇÃO DOS PACOTES OFFICE
 COMO instalar o WPS Office em PT-BR no Linux Mint 20.3
 YouTUBE: https://www.youtube.com/watch?v=PzIgNdJDdFE
 Github.: https://github.com/vaamonde/dell-linuxmint/blob/master/software/11-wpsoffice.md
 	WPS OFFICE;
-	ONLYOFFICE.
 	FREE OFFICE;
 	ONLYOFFICE.
 	
@@ -79,5 +79,12 @@ Desafio-12: INSTALAÇÃO DOS SOFTWARE PARA UM DIA SER UM MEGA, PLUS ADVANCED, PD
 	eDEX-UI;
 	HOLLYWOOD LINUX;
 	AUDACITY;
-	GIMP;
+	GIMP --> ADOBE PHOTOSHOP;
 	OBS STUDIO;
+	KDENLIVE - ADOBE Premiere;
+	DAVINCI RESOLVE - ADOBE Premiere;
+	KRITA - ADOBE ILUSTRATOR;
+	INKSCAPE - COREL DRAW;
+	VLC;
+	GPARTED;
+	NOTEPADQQ;
